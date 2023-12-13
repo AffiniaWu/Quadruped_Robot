@@ -4,8 +4,6 @@ Quadruped_Robot based on STC8H8K64U , control PCA9685 to drive the eight-way ste
 
 
 
-
-
 设计灵感参考：嘉立创开源广场爆改车间主任https://oshwhub.com/shukkkk/xin-xiao-si-zu-_esp32c3-ban 
 
 Design inspiration reference:https://oshwhub.com/shukkkk/xin-xiao-si-zu-_esp32c3-ban 
